@@ -12,3 +12,8 @@ doc
 .ruby-version
 .idea
 coverage
+erd.pdf
+
+## Environment normalization:
+/.bundle
+/vendor/bundle
